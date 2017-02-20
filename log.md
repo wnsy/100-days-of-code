@@ -8,7 +8,7 @@
 
 **Link to work:** None, yet as I would need to create a repo for the theme. 
 
-### Day 1: June 21, Tuesday
+### Day 1: February 21, Tuesday
 
 **Today's Progress**: 
 
